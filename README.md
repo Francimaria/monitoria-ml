@@ -1,4 +1,4 @@
-# Monitoria Aprendizagem de Máquina I (Embraer)
+# Monitoria Aprendizagem de Máquina I e II (Embraer)
 
 
 ## Utilizando Google Colab
